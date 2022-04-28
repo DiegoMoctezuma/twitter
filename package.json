@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoMoctezuma/twitter.git"
+  },
+  "author": "Rafael Moctezuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoMoctezuma/twitter/issues"
+  },
+  "homepage": "https://github.com/DiegoMoctezuma/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
